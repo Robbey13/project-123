@@ -1,0 +1,15 @@
+.h3 {
+font-size: 23px;
+color: aliceblue;
+}
+
+.copy_right_footer {
+    width:100%;
+    text-align:center;
+    bottom:0;
+    position:fixed;
+    background-color: aqua;
+    height:50px;
+    font-size: 23px;
+}
+
